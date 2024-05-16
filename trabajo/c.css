@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: aliceblue;
+}
+.inicio{
+    margin: 10px 0px 0px 15px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 2px;
+    height: 25vh;
+}
+.nombre{
+    margin-top: -110px;
+    padding-left: 200px
+}
+.email{
+    margin-top: 20px;
+    padding-left: 200px;
+}
+.telefono{
+    margin-top: 30;
+    padding-left: 200px;
+}
+.perfil-profecional{
+    margin: 5px 0px 0px 15px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 2px;
+    width: 500px;
+    height: 60vh;
+}
+.estudios-academicos{
+    margin: 5px 0px 0px 15px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 2px;
+    width: 500px;
+    height: 60vh;
+}
+.cursos-especialisados{
+    margin: -832px 0px 0px 550px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 2px;
+    width: 500px;
+    height: 60vh;
+}
+
+.idioma{
+    margin: 5px 0px 0px 550px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 2px;
+    width: 500px;
+    height: 60vh;
+}
+.stack-tecnologi{
+    margin: -832px 0px 0px 1080px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 2px;
+    width: 200px;
+    height: 60vh;
+}
+.exp-laboral{
+    margin: 5px 0px 0px 1080px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 2px;
+    width: 200px;
+    height: 60vh;
+}
